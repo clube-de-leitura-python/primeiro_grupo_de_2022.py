@@ -1,5 +1,5 @@
 # primeiro_grupo_de_2022.py
-grupo de pessoas lendo sobre Python iniciado em março de 2022to, trocar conhecimento.
+Grupo de pessoas lendo sobre Python iniciado em março de 2022.
 
 #### Iniciado no primeiro semestre de 2022
 #### segundas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) 
