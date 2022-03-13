@@ -2,7 +2,7 @@
 grupo de pessoas lendo sobre Python iniciado em março de 2022to, trocar conhecimento.
 
 #### Iniciado no primeiro semestre de 2022
-##### segundas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) 
+#### segundas-feiras **9AM−10AM** (9H da manhã, UTC-3, Brasília) 
 
 - **1° encontro - data a ser definida**
   - O encontro vai ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
