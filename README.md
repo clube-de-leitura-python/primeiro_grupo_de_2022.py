@@ -6,7 +6,7 @@ Grupo de pessoas lendo sobre Python iniciado em março de 2022.
 - **1° encontro - 28 de março de 2022**
   - Os encontros vão ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
      - LINK AQUI NO DIA
-  - Para receber lembrete por email: https://tinyletter.com/clube-de-leitura-python
+  - Para receber lembrete por email: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions](https://github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions)
 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
