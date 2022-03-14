@@ -1,8 +1,7 @@
 # primeiro_grupo_de_2022.py
 Grupo de pessoas lendo sobre Python iniciado em março de 2022.
 
-#### Iniciado no primeiro semestre de 2022
-#### Encontros da última segunda-feira do mês 9AM−10AM (9H da manhã, UTC-3, Brasília) 
+#### Iniciado no primeiro semestre de 2022, os encontros acontecem na última segunda-feira do mês 9AM−10AM (9H da manhã, UTC-3, Brasília) 
 
 - **1° encontro - 28 de março de 2022**
   - Os encontros vão ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
