@@ -25,4 +25,4 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 ---
 
-O clube de leitura Python não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
+O clube de leitura Python não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta para incidentes será composto inicialmente por Erica Ide @ericaide e Carolina Zanotto @fusalina.
