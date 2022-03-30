@@ -4,7 +4,13 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 #### Encontros na última segunda-feira do mês 9AM−10AM (9H da manhã, UTC-3, Brasília) 
 
+- **próximo encontro - 25 de abril de 2022**
+ 
+   - SUGESTÃO DE LEITURA:
+     Leitura dos 6 primeiros capítulos do Automate Boring Stuff (http://automatetheboringstuff.com/) como sugestão do grupo, e quem quiser buscar outras      fontes de leitura sobre os temas desses capítulos, faz por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
+ 
 - **1° encontro - 28 de março de 2022**
+  - Registro da conversa qui: https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5
   - Os encontros vão ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
      - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
   - Para receber lembrete por email: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
