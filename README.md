@@ -1,21 +1,23 @@
 # primeiro_grupo_de_2022.py
 
-Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato mensal.
+Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato mensal. 
 
 #### Encontros na última segunda-feira do mês 9AM−10AM (9H da manhã, UTC-3, Brasília) 
 
+Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
+
 - **próximo encontro - 25 de abril de 2022**
- 
-   - SUGESTÃO DE LEITURA:
-     Leitura dos 6 primeiros capítulos do Automate Boring Stuff (http://automatetheboringstuff.com/) como sugestão do grupo, e quem quiser buscar outras      fontes de leitura sobre os temas desses capítulos, faz por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
+    - Conversa sobre a çeitura dos 6 primeiros capítulos do Automate Boring Stuff (http://automatetheboringstuff.com/) como sugestão do grupo
+    - Quem quiser pode buscar outras fontes de leitura sobre os temas desses capítulos por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
+    - Vamos combinar a próxima leitura.
  
 - **1° encontro - 28 de março de 2022**
   - Registro da conversa qui: https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5
   - Os encontros vão ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
      - https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
-  - Para receber lembrete por email: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
   - No primeiro encontro vamos conversar sobre os objetivos dos participantes e combinar a próxima leitura.
-  - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions](https://github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions)
+
+Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions](https://github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions)
 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
 > Monte um grupo e procuramos na comunidade outras pessoas para mediar.
