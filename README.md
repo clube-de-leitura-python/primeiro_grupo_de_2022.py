@@ -2,7 +2,7 @@
 
 Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato mensal. 
 
-## Encontros na última segunda-feira do mês 9AM−10AM (9H da manhã, UTC-3, Brasília) 
+## Encontros na última segunda-feira do mês 9AM−10AM <br>(9h da manhã, UTC-3, Brasília) 
 
 Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
   - Registro da conversa qui: https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5
