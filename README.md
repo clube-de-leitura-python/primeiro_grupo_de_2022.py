@@ -9,16 +9,15 @@ Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura
   - Os encontros vão ser na sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
 ### **próximo encontro - 30 de maio de 2022**
-    - Combinamos de tentar ler até o capítulo 8 do *Automate the Boring Stuff with Python*
+
+    Combinamos de tentar ler até o capítulo 8 do *Automate the Boring Stuff with Python*
 
 ### **2° - 25 de abril de 2022**
-    - Conversa sobre a Leitura dos 6 primeiros capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
-    - Quem quiser pode buscar outras fontes de leitura sobre os temas desses capítulos por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
-    - Vamos combinar a próxima leitura.
- 
-### **1° encontro - 28 de março de 2022**
-  - No primeiro encontro vamos conversar sobre os objetivos dos participantes e combinar a próxima leitura.
+- Conversa sobre a Leitura dos 6 primeiros capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
 
+### **1° encontro - 28 de março de 2022**
+- No primeiro encontro vamos conversa sobre os objetivos dos participantes e a próxima leitura.
+- Quem quiser pode buscar outras fontes de leitura sobre os temas desses capítulos por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
 Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions](https://github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions)
 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
