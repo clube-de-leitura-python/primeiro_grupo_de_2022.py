@@ -10,15 +10,15 @@ Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura
 
 ### **próximo encontro - 27 de junho de 2022**
 
-    Combinamos de tentar lero capítulo 8 e 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
+-   Combinamos de tentar lero capítulo 8 e 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
     - validação de entradas
     - abertura e leitura de aquivos
     Trazer alguma coisa que estamos fazendo que se relacione com o conteúdo do livro
 
 ### **3° encontro  - 30 de maio de 2022**
 
-    Combinamos de tentar ler até o capítulo 8 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
-    Provavelmente a maior parte das pessoas parou no capítulo 7, sobre expressões regulares (ReGex)
+ -  Combinamos de tentar ler até o capítulo 8 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
+    - Provavelmente a maior parte das pessoas parou no capítulo 7, sobre expressões regulares (ReGex)
     
 ### **2° encontro - 25 de abril de 2022**
 - Conversa sobre a Leitura dos 6 primeiros capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
