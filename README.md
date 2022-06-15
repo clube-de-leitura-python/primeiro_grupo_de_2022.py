@@ -5,12 +5,12 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 ## Encontros na última segunda-feira do mês 9AM−10AM <br>(9h da manhã, UTC-3, Brasília) 
 
 Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
-  - Registro da conversa no pad: https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5
-  - Os encontros vão ser na sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
+  - Registro da conversa fica no pad: [pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5](https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5)
+  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
 ### **próximo encontro - 27 de junho de 2022**
 
--   Combinamos de tentar lero capítulo 8 e 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
+-   Combinamos de tentar ler os capítulos 8 e 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
     - validação de entradas
     - abertura e leitura de aquivos
     Trazer alguma coisa que estamos fazendo que se relacione com o conteúdo do livro
