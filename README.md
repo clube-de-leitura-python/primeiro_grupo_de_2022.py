@@ -2,11 +2,21 @@
 
 Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato mensal. 
 
-## Encontros na última segunda-feira do mês 9AM−10AM <br>(9h da manhã, UTC-3, Brasília) 
+## Informações gerais
 
-Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
-  - Registro da conversa fica no pad: [pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5](https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5)
-  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
+- <strong>Fazemos encontros na última segunda-feira do mês 9AM−10AM (9h da manhã, UTC-3, Brasília)</strong>
+
+- O objetivo aqui é poder usar programação na sua própria profissão ou atividades de interesse, não se tornar uma pessoa desenvoledora profissional, e Python pode ser legal para isso. Mas, pessoas desenvolvedoras, ou que pretendem se tornar desenvolvedoras profissionais, podem participar também.
+
+- Você vai precisar do Python para estudar (vale um computador antigo, no celular ou tablet é um tanto mais difícil), tente instalar o editor de código [Thonny.org](https://thonny.org) que vem com um Python 3 embutido;
+
+- É grátis, isto aqui é um lance comunitário, de aprender junto
+
+- Para receber lembretes por email, se inscreva em [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
+
+- Registro da conversa fica no pad: [pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5](https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5)
+ 
+ - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
 ### **próximo encontro - 27 de junho de 2022**
 
@@ -28,13 +38,11 @@ Para receber lembrete por email, se inscreva em [tinyletter.com/clube-de-leitura
 - Quem quiser pode buscar outras fontes de leitura sobre os temas desses capítulos por conta própria e no próximo encontro discutiremos as descobertas, dificuldades e dúvidas.
 Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions](https://github.com/clube-de-leitura-python/primeiro_grupo_de_2022.py/discussions)
 
+
+---
+
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
 > Monte um grupo e procuramos na comunidade outras pessoas para mediar.
-
-#### Informações gerais
-- O objetivo aqui não é em geral a pessoa virar desenvolvedora profissional, mas sim poder usar programação na sua própria profissão ou atividades de interesse. Python pode ser legal para isso; Pessoas desenvolvedoras podem participar se quiserem.
-- Você vai precisar de um computador para instalar Python (vale um computador antigo, não rola legal no celular ou tablet), tente instalar o editor de código [Thonny.org](https://thonny.org) que vem com um Python 3 embutido;
-- É grátis, isto aqui é um lance comunitário, de aprender junto
 
 ---
 
