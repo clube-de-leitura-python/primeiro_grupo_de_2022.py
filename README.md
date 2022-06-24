@@ -6,7 +6,7 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 - <strong>Fazemos encontros na última segunda-feira do mês 9AM−10AM (9h da manhã, UTC-3, Brasília)</strong>
 
-- O objetivo aqui é poder usar programação na sua própria profissão ou atividades de interesse, não se tornar uma pessoa desenvoledora profissional, e Python pode ser legal para isso. Mas, pessoas desenvolvedoras, ou que pretendem se tornar desenvolvedoras profissionais, podem participar também.
+- O objetivo aqui é poder usar programação na sua própria profissão ou atividades de interesse, não se tornar uma pessoa desenvolvedora profissional, e Python pode ser legal para isso. Mas, pessoas desenvolvedoras, ou que pretendem se tornar desenvolvedoras profissionais, podem participar também.
 
 - Você vai precisar do Python para estudar (vale um computador antigo, no celular ou tablet é um tanto mais difícil), tente instalar o editor de código [Thonny.org](https://thonny.org) que vem com um Python 3 embutido;
 
