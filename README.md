@@ -18,7 +18,14 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 27 de junho de 2022**
+### **próximo encontro - 25 de julho de 2022**
+
+-   Combinamos de tentar ler até o capítulo 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
+    - abertura e leitura de aquivos
+-   Durante o periodo, estimular encontros intermediários incentivando a leitura do texto . 
+    
+
+### **4° encontro  - 27 de junho de 2022**
 
 -   Combinamos de tentar ler os capítulos 8 e 9 do  [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) 
     - validação de entradas
