@@ -20,9 +20,10 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 ### **próximo encontro - 29 de agosto de 2022**
 
--   Combinamos de tentar ler até os seguintes capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/) (a nomeração da versão em português e diferente):
+-   Combinamos de tentar ler até os seguintes capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/):
     - Chapter 10 – Organizing Files
     - Chapter 11 – Debugging
+    - Nota: A numeração da versão em português é diferente.
    
 
 ### **5° encontro  - 25 de julho de 2022**
