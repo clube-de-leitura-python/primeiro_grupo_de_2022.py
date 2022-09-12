@@ -24,7 +24,7 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 1. Ler as páginas de debugging do Thonny
 2. Estudar sobre biblioteca padrão do Python '[doctest](https://docs.python.org/pt-br/3/library/doctest.html)' ou
-    - [sphinx.ext.doctest – Trechos de teste na documentação](https://www.sphinx-doc.org/pt_BR/master/usage/extensions/doctest.html).tem trechos em Inglês e outros em português neste documento
+    - [sphinx.ext.doctest – Trechos de teste na documentação](https://www.sphinx-doc.org/pt_BR/master/usage/extensions/doctest.html). tem trechos em Inglês e outros em português neste documento
     - [Doctests in Python – A Brief Overview](https://www.askpython.com/python-modules/doctests-in-python) 
     - [How to run doctests](https://docs.pytest.org/en/7.1.x/how-to/doctest.html) - 
 3. Pareceu ainda de interesse, o estudo do TDD - Test Driven Development com alguns sites sugestão.
