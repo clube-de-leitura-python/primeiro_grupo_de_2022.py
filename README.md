@@ -18,13 +18,27 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 29 de agosto de 2022**
+### **próximo encontro - 26 de setembro**
+
+-   Combinamos ler alguns itens de testes
+
+1. Ler as páginas de debugging do Thonny
+2. Estudar sobre biblioteca padrão do Python '[doctest](https://docs.python.org/pt-br/3/library/doctest.html)' ou
+    - [sphinx.ext.doctest – Trechos de teste na documentação](https://www.sphinx-doc.org/pt_BR/master/usage/extensions/doctest.html) - tem trechos em Inglês e outros em português neste documento
+    - [Doctests in Python – A Brief Overview](https://www.askpython.com/python-modules/doctests-in-python) 
+    - [How to run doctests](https://docs.pytest.org/en/7.1.x/how-to/doctest.html) - 
+3. Pareceu ainda de interesse, o estudo do TDD - Test Driven Development com alguns sites sugestão.
+    - [Test-driven development](https://www.wikiwand.com/pt/Test-driven_development) com a documentação dos conceitos na área.
+    - [CoderDojo](https://coderdojo.com/) site comunidade com farto material sobre sobre a prática do Test Driven Development visando o aprimoramento das habilidades de programação.
+
+
+### **6° encontro   - 29 de agosto de 2022**
 
 -   Combinamos de tentar ler até os seguintes capítulos do [*Automate the Boring Stuff with Python*](http://automatetheboringstuff.com/):
     - Chapter 10 – Organizing Files
     - Chapter 11 – Debugging
     - Nota: A numeração da versão em português é diferente.
-   
+ 
 
 ### **5° encontro  - 25 de julho de 2022**
 
