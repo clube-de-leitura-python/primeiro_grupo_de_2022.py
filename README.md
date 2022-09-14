@@ -22,7 +22,7 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 -   Combinamos ler alguns itens de testes
 
-1. Ler as páginas de debugging do Thonny
+1. Ler as páginas de [debugging do Thonny](https://www.fullstackpython.com/debugging.html).
 2. Estudar sobre biblioteca padrão do Python '[doctest](https://docs.python.org/pt-br/3/library/doctest.html)' ou
     - [sphinx.ext.doctest – Trechos de teste na documentação](https://www.sphinx-doc.org/pt_BR/master/usage/extensions/doctest.html) - tem trechos em Inglês e outros em português neste documento
     - [Doctests in Python – A Brief Overview](https://www.askpython.com/python-modules/doctests-in-python) 
