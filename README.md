@@ -18,9 +18,22 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 26 de setembro**
+### **próximo encontro - 31 de outubro**
 
--   Combinamos ler alguns itens de testes
+Vamos continuar lendo sobre os testes e seus recursos.
+
+1. [Selenium with Python](https://selenium-python.readthedocs.io/index.html) por tratar a automação sobre o navegador (browser) é de interesse para nos testes de aplicações web como no framework Django, na raspagem (scraping) de dados web, ou mesmo criação de bots para automação de acesso. O [Selenium with Python Tutorial: Getting started with Test Automation](https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test) pode ser uma leitura inicial nesta área!
+2. [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) é tratado no capítulo [CONTROLLING THE KEYBOARD AND MOUSE WITH GUI AUTOMATION](http://automatetheboringstuff.com/2e/chapter20/) do [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) do Al Sweigart e é uma boa leitura para as automações sobre aplicações Web.
+
+
+
+Ler as páginas de [debugging do Thonny](https://www.fullstackpython.com/debugging.html).
+
+
+
+###  **7° encontro   -  - 26 de setembro**
+
+Combinamos ler alguns itens de testes
 
 1. Ler as páginas de [debugging do Thonny](https://www.fullstackpython.com/debugging.html).
 2. Estudar sobre biblioteca padrão do Python '[doctest](https://docs.python.org/pt-br/3/library/doctest.html)' ou
