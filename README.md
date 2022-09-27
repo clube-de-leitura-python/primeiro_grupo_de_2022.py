@@ -18,17 +18,15 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 31 de outubro**
+### **próximo encontro - 24 de outubro**
 
 Vamos continuar lendo sobre os testes e seus recursos.
 
-1. [Selenium with Python](https://selenium-python.readthedocs.io/index.html) por tratar a automação sobre o navegador (browser) é de interesse para nos testes de aplicações web como no framework Django, na raspagem (scraping) de dados web, ou mesmo criação de bots para automação de acesso. O [Selenium with Python Tutorial: Getting started with Test Automation](https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test) pode ser uma leitura inicial nesta área!
-2. [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) é tratado no capítulo [CONTROLLING THE KEYBOARD AND MOUSE WITH GUI AUTOMATION](http://automatetheboringstuff.com/2e/chapter20/) do [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) do Al Sweigart e é uma boa leitura para as automações sobre aplicações Web.
-
-
-
-Ler as páginas de [debugging do Thonny](https://www.fullstackpython.com/debugging.html).
-
+1. [Selenium with Python](https://selenium-python.readthedocs.io/index.html) por tratar a automação sobre o navegador (browser) é de interesse para nos testes de aplicações web como no framework Django, na raspagem (scraping) de dados, ou mesmo criação de bots para automação de acesso. O [Selenium with Python Tutorial: Getting started with Test Automation](https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test) pode ser uma leitura inicial nesta área!
+2. [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) é tratado no capítulo [CONTROLLING THE KEYBOARD AND MOUSE WITH GUI AUTOMATION](http://automatetheboringstuff.com/2e/chapter20/) do [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) do Al Sweigart e é uma boa leitura para as automações sobre aplicações Gráficas incluindo Web.
+3. Entre outras leitura que podem ser de interesse na área de automações e testes:
+   - No [Coursera](https://www.coursera.org), veja por exemplo o [Test your Django views and forms using Selenium](https://www.coursera.org/projects/test-django-views-forms-selenium)
+   - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) para acesso e manipulação de dados estruturados em TAGS. 
 
 
 ###  **7° encontro   -  - 26 de setembro**
