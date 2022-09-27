@@ -27,9 +27,11 @@ Vamos continuar lendo sobre os testes e seus recursos.
 3. Entre outras leitura que podem ser de interesse na área de automações e testes:
    - No [Coursera](https://www.coursera.org), veja por exemplo o [Test your Django views and forms using Selenium](https://www.coursera.org/projects/test-django-views-forms-selenium)
    - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) para acesso e manipulação de dados estruturados em TAGS. 
+   - [Blender multiuser add-on](https://blenderartists.org/t/multi-user/1187118) leva as condições de testes ao limite com considerações de multiplos agentes e acessos online. Vale uma olhada!
+   - 
 
 
-###  **7° encontro   -  - 26 de setembro**
+###  **7° encontro   -  26 de setembro**
 
 Combinamos ler alguns itens de testes
 
