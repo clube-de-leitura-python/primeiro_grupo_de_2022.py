@@ -18,7 +18,7 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 24 de outubro**
+### **próximo encontro - 24 de outubro!**
 
 Vamos continuar lendo sobre os testes e seus recursos.
 
