@@ -18,7 +18,65 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
-### **próximo encontro - 31 de outubro!**
+
+### **próximo encontro - 28/novembro !**
+
+Vamos ler sobre web scraping com Python, Selenium e Beautiful Soup. 
+
+- [Web Scraping: Python, Selenium e BeautifulSoup](https://blog.4linux.com.br/web-scraping-python-selenium-e-beautifulsoup/) - este artigo é de 2018 e pode precisar de atualizações quanto às ferramentas utilizadas. O exemplo é feito no Windows e alterações podem ser necessárias para o ambiente Linux.
+
+Durante este mês faremos os nossos estudos de forma mais prática.  
+
+1. Que tal compartilharmos (Arquivo Anexo no WhatsApp, EtherPads, Gist, GitHub, Google Colab, etc) código sobre o  qual queremos trabalhar? Exemplo: O código sobre CEP do Samuel. 
+
+2. Procurar estabelecer as necessidades (issues) sobre o código. Exemplo: Armazenar o Resultado da pesquisa em arquivo, Preparar para um processamento de diversos endereços, Casos especiais como os endereços em Brasilia/DF.
+
+Claro, as leituras continuam:
+    
+# Web Scraping
+
+No capítulo [WEB SCRAPING](http://automatetheboringstuff.com/2e/chapter12/)  do  [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) do [Al Sweigart](https://alsweigart.com/). 
+
+Mas, contamos com a sugestão de outras leituras.
+
+# Testing
+
+No capítulo [CONTROLLING THE KEYBOARD AND MOUSE WITH GUI AUTOMATION](http://automatetheboringstuff.com/2e/chapter20/)  do  [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) do [Al Sweigart](https://alsweigart.com/). 
+
+No [2. Getting Started](https://selenium-python.readthedocs.io/getting-started.html#simple-usage) um exemplo de uso inicial do Selenium.
+
+A ideia de usar geradores de scripts de navegação pode ser interessante:
+    
+- [Katalon Recorder (Selenium tests generator)](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
+- [Robocorp Recorder](https://chrome.google.com/webstore/detail/robocorp-recorder/mcecdbgadanapabbhbejbkmmgcifcdbn)
+
+Mas, contamos com a sugestão de outras leituras.
+
+
+# [Compartilhamento e Colaboração](https://pad.education/p/codigos-clube-de-leitura-python)
+
+Continuamos buscando como compartilhar codigo fonte melhor. A possibilidade de compartilhar os nossos códigos/exercicíos em forma de arquivos anexos no WhatsApp, pode ser um inicio.
+
+A possiblidade de uso dos EtherPads para compartilhamento de código.
+
+Ambientes de colaboração como o Gist e o GitHub são mais sofisticados buscando o processo de contribuição/colaboração (fork e pull request) e versionamento da evolução  do trabalho. 
+
+Para o Thonny cabe experiencia sobre o 
+
+- [thonny-gitonic](https://github.com/kr-g/thonny-gitonic)
+
+O Google Colab pode ser uma forma interessante de compartilhamento e colaboração sobre códigos! Ao integrar documentação e códigos gera estruturas bem legíveis.
+
+# Reuniões Futuras
+
+Vamos conversar sobre talvez voltar a estudar a "teoria", e os básicos de Python.  ou voltamos a ler o livro  [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
+
+
+
+
+
+
+###  **8° encontro   -  31 de outubro**
 
 Vamos continuar lendo sobre os testes e seus recursos.
 
@@ -28,7 +86,25 @@ Vamos continuar lendo sobre os testes e seus recursos.
    - No [Coursera](https://www.coursera.org), veja por exemplo o [Test your Django views and forms using Selenium](https://www.coursera.org/projects/test-django-views-forms-selenium)
    - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) para acesso e manipulação de dados estruturados em TAGS. 
    - [Blender multiuser add-on](https://blenderartists.org/t/multi-user/1187118) leva as condições de testes ao limite com considerações de multiplos agentes e acessos online. Vale uma olhada!
-   - 
+
+Olhamos exemplos de python+selenium.  E conversamos sobre recomendar algumas formas para compartilhar codigo fonte entre todos. 
+
+Um básico estilo "hello world", bem simples.  E um exemplo de "web scraping" usando Selenium e Beautiful Soup. 
+
+O exemplo simples usa o Selenium para abrir uma página, digitar algo, apertar "enter", e ver os resultados. 
+
+- [2. Getting Started - 2.1. Simple Usage](https://selenium-python.readthedocs.io/getting-started.html#simple-usage)
+- (falta um link para o segundo exemplo) ----
+
+Para as [formas de compartilhar código](https://pad.education/p/codigos-clube-de-leitura-python):
+    
+    
+    
+
+
+
+
+
 
 
 ###  **7° encontro   -  26 de setembro**
