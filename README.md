@@ -19,7 +19,66 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
  - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
 
 
-### **próximo encontro - 28/novembro !**
+
+
+### **próximo encontro - 26/dezembro !**
+
+Que tal lermos e nos divertirmos com os _Faded Parsons Problems_?
+
+#### Faded [Parsons Problems](https://en.wikipedia.org/wiki/Parsons_problem)
+
+
+
+
+> Olha gente, tem um tipo de quebra-cabeça didático que chama Parsons Problems
+> eu leio sobre isso faz um tempo
+> e encontrei esta ferramenta bem simpática online qui
+> se vocês quiserem experimentar
+
+- [Faded Parsons Problems](https://pamelafox.github.io/faded-parsons-static/index.html)
+- [number of unread books in the list](https://pamelafox.github.io/faded-parsons-static/problem.html?name=count_unread_books)
+
+
+> (eu tou subvertendo que quero fazer uma versão com resultado visual...)
+> 						(Alexandre B A Villares)
+						
+Temos uma instancia da página de Pamela Fox no Github/Clubedeleitura. Acesso por
+
+
+- [repositorio](https://github.com/clube-de-leitura-python/faded-parsons-static) instancia local.
+- [Maior Número](https://clube-de-leitura-python.github.io/faded-parsons-static/problem.html?name=greater_num) - um exemplo de como acessar aos problemas. O nome do problema logo depois do igual na URL!
+
+A versão visual está iniciando em :
+
+- [Python Faded Parsons Problems](https://github.com/villares/faded-parsons-visual)
+
+
+
+##### Referencias
+
+- [Exploring the Use of Parsons Problems for Learning a New
+Programming Language](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-88.pdf)
+- [EVALUATING THE EFFECTIVENESS AND EFFICIENCY OF
+PARSONS PROBLEMS AND DYNAMICALLY ADAPTIVE
+PARSONS PROBLEMS AS A TYPE OF LOW COGNITIVE LOAD
+PRACTICE PROBLEM](https://dl.acm.org/doi/pdf/10.1145/3230977.3231000), Barbara Jane Ericson.
+- [Parson's programming puzzles: A fun and effective learning tool for first programming courses](https://www.researchgate.net/profile/Patricia-Haden/publication/262160581_Parson's_programming_puzzles_A_fun_and_effective_learning_tool_for_first_programming_courses/links/5593212508ae5af2b0eb6da3/Parsons-programming-puzzles-A-fun-and-effective-learning-tool-for-first-programming-courses.pdf), Patricia Haden, Otago Polytechnic
+
+
+#### Leituras Adicionais
+
+- [Wekinator 2.0 ](http://www.wekinator.org/) - Aprendizado de máquina.
+- [pdfkit 1.0.0](https://pypi.org/project/pdfkit/) - gerando um arquivo PDF a partir de um site.
+- [pdfrw](https://github.com/pmaupin/pdfrw) is a pure Python library that reads and writes PDFs
+- [dunossauro](https://twitter.com/dunossauro) - mais python, siga  Eduardo Mendes ( [dunossauro](https://twitter.com/dunossauro) ).
+- [Multi-User](https://multi-user.readthedocs.io/en/latest/about/index.html) is a free and open source blender addon. It aims to allow multiple users to work on the same scene over the network. Based on a Clients / Server architecture, the data-oriented replication schema replicate blender data-blocks across the wire.
+- [Colibri Mouse de Cabeça](https://tix.life/tecnologia-assistiva/colibri-mouse-de-cabeca/) - Mouse de cabeça para pessoas com deficiência: O Colibri capta movimentos intuitivos da cabeça para controlar o ponteiro do mouse com precisão.
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) Open Source OCR Engine (main repository)
+
+
+
+
+###  **9° encontro   -  28 de novembro**
 
 Vamos ler sobre web scraping com Python, Selenium e Beautiful Soup. 
 
