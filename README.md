@@ -16,7 +16,7 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 - Registro da conversa fica no pad: [pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5](https://pad.education/p/r.f4a4f7179823c1df205f20f4dd5b0ac5)
  
- - Os encontros são sempre sala de vídeo-conferência [meet.jit.si/moderated/dec410...](https://meet.jit.si/moderated/de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9)
+ - Os encontros são sempre sala de vídeo-conferência https:// meet.jit.si / moderated / de410c8016975c3aba5b6090859fe79ad5309820805ed331985014f089be9fa9
 
 
 
