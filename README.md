@@ -20,8 +20,38 @@ Grupo de pessoas lendo sobre Python com início em março de 2022, novo formato 
 
 
 
+# Clube de Leitura Python - Encontros de 2023
 
-### **próximo encontro - 26/dezembro !**
+
+Próximo encontro será no dia 30/01/2023 (segunda-feira) - das 0900hs às 1000hs.
+
+![Hans Zimmer and his Moog Modular Synthesizer, 1970](https://i.imgur.com/rlfhQ1h.jpg)
+
+- [A widely circulated photo claims to be taken in 1970, but it appears to be taken around 1980.](https://www.synthjunky.com/hans-zimmer-and-his-modular-synth-the-truth-behind-the-photo/)
+
+Leitura proposta para janeiro: Python para o Blender: 
+
+1) [A Quick Intro to Blender Creative Coding](https://tabreturn.github.io/code/blender/python/2020/06/06/a_quick_intro_to_blender_creative_coding-part_1_of_3.html) - Uma introdução em 3 partes à ***Programação Python para o Bender***. Uma introdução à ***Programação Criativa***!
+
+Possível assunto para fevereiro:
+
+2)  [ pyscript](https://pyscript.net/) - Run Python in Your HTML! Programe a sua aplicação em Python diretamente no seu navegador!
+
+Outros assuntos que apareceram no último encontro:
+
+3) [Robotic arm able to capture force for accurate calligraphy reproduction](https://phys.org/news/2012-10-robotic-arm-capture-accurate-calligraphy.html) 
+4) [CodePen Home Vertexless Instancing](https://codepen.io/prisoner849/pen/jOKjppo)
+
+
+
+
+
+
+
+
+###  **10° encontro   -  26 de dezembro**
+
+
 
 Que tal lermos e nos divertirmos com os _Faded Parsons Problems_?
 
